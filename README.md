@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Nicolas Cordero</h1>
+<h1 align="center">Hola 👋, soy Nicolas</h1>
 <h3 align="center">Aprendiz en formación práctica en GSE | Estudiante de ADSO en el SENA</h3>
 
 ---
